@@ -6,6 +6,7 @@ export default function Index() {
       <h1 className="home">Home Page</h1>
       <p>Welcome to my fabulous box</p>
       <Link to={"/about"}>Go to about</Link>
+      <Link to={"/contact"}>Go to contact</Link>
     </>
   );
 }
