@@ -8,9 +8,9 @@ export default function Index() {
       <Link to={"/about"}>Go to about</Link>
       <Link to={"/contact"}>Go to contact</Link>
 
-      <div className="Name">
+     className="Name">
     <p>Yehudah Davidson</p>
-   </div>
+   
 
 <div> 
 <h3 className="title">Graphic Designer</h3>
@@ -23,9 +23,9 @@ export default function Index() {
 <div className="sidebar">
 <ul>
 <li> <a href="home">Home</a> </li>
-<li> <a href=About>About</a> </li>
-<li><a href=Portfolio>Portfolio</a></li>
-<li><a href= Contact>Contact</a></li>
+<li> <a href="About">About</a> </li>
+<li> <a href="Portfolio">Portfolio</a></li>
+<li> <a href= "Contact">Contact</a></li>
 </ul>
     </>
     
