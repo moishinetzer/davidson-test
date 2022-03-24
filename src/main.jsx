@@ -5,7 +5,7 @@ import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Index from "./routes";
 import About from "./routes/about";
 import Contact from "./routes/contact";
-import Portfolio from "./routes/Portfolio";
+import Portfolio from "./routes/portfolio";
 
 ReactDOM.render(
   <React.StrictMode>
@@ -16,7 +16,7 @@ ReactDOM.render(
         <Route path="/" element={<Index />} />
         <Route path="/about" element={<About />} />
         <Route path="/contact" element={<Contact/> } />
-        <Route path="/Portfolio" element={<Portfolio />} />
+        <Route path="/portfolio" element={<Portfolio />} />
       </Routes>
     </BrowserRouter>
   </React.StrictMode>,
