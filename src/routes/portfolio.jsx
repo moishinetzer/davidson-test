@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 
-export default function portfolio() {
+export default function Portfolio() {
  return (
         <>
       <h1 className="home">portfolio</h1>
