@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
 
-export default function Index() {
-    return (
+export default function portfolio() {
+ return (
         <>
       <h1 className="home">portfolio</h1>
       <p>Welcome to my fabulous box</p>
@@ -9,4 +9,5 @@ export default function Index() {
       <Link to={"/contact"}>Go to contact</Link>
       <Link to={"/"}>Go to home</Link>
       </>
-      )};
+      )
+ }
