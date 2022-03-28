@@ -7,12 +7,11 @@ export default function Index() {
       <p>Welcome to my fabulous box</p>
 
       <ul className="sidebar">
-      <li><Link to={"/about"}>Go to about</Link> </li>
-      <li><Link to={"/contact"}>Go to contact</Link> </li>
-      <li><Link to={"/portfolio"}>Go to portfolio</Link> </li>
+      <li><Link to={"/"}>home</Link></li>
+      <li><Link to={"/about"}>about</Link> </li>
+      <li><Link to={"/contact"}>contact</Link> </li>
+      <li><Link to={"/portfolio"}>portfolio</Link> </li>
       </ul>
-    
-    
     
       </>
       )
