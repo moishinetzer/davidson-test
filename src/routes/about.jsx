@@ -7,7 +7,13 @@ export default function About() {
       <p id="textabout">
         lorem ipsum dolor sit amet consectetur adipisicing elit
       </p>
-      <Link to={"/"}>Go to home</Link>
+    
+      <ul className="sidebar">
+      <li><Link to={"/"}>Go to home</Link></li>
+      <li><Link to={"/about"}>Go to about</Link> </li>
+      <li><Link to={"/contact"}>Go to contact</Link> </li>
+      <li><Link to={"/portfolio"}>Go to portfolio</Link> </li>
+      </ul>
     </>
   );
 }
