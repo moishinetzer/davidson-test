@@ -3,6 +3,8 @@ import { Link } from "react-router-dom";
 export default function Portfolio() {
  return (
         <>
+<link rel="stylesheet" href="https://use.typekit.net/rwh2pbj.css"/>
+
       <h1 className="home">Portfolio</h1>
       <p>Welcome to my fabulous box</p>
      
