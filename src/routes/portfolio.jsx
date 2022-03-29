@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 export default function Portfolio() {
  return (
         <>
-      <h1 className="home">portfolio</h1>
+      <h1 className="home">Portfolio</h1>
       <p>Welcome to my fabulous box</p>
      
       <ul className="sidebar">

@@ -1,13 +1,21 @@
-h1.home {
-  background-color: rgb(236, 101, 52);
+h1 {
+  /* background-color: rgb(236, 101, 52); */
+  text-align: center;
+  font-family:'great-vibes';
+  font-size: 45px;
+  color: green;
 }
 
-h1.about {
-  background-color: rgb(10, 107, 107);
+p{
+  text-align: center;
+  font-family:confiteria-script, sans-serif;
+  font-size: px;
 }
 
 #textabout {
   background-color: rgb(40, 197, 35);
+  margin-right: 550px;
+  margin-left: 550px;
 }
 
 a{
@@ -68,22 +76,22 @@ ul.sidebar a {
     text-decoration: none;
 }
 ul.sidebar a.active{
-  background-color: #04AA6D;
+  /* background-color: #04AA6D; */
   color: white;
 }
 
 ul.sidebar a:hover:not(.active) {
-background-color: #555;
+background-color: rgb(0, 0, 0);
 color: white;
 }
 
 div.content {
-  margin-left: 200px;
+  margin-left: 0px;
   padding: 1px 16px;
   height: 1000px;
 }
 
 li a {
   display: block;
-  width: 60px;
+  width: 120px;
 }
