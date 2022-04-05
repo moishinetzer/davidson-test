@@ -19,8 +19,8 @@ const Header = () => {
     );
   };
   
-  export default Header;
+//   export default Header;
 
-  <Link to={`/${link}`} className='headerlink-title'>
-  {title}
-</Link>
+//   <Link to={`/${link}`} className='headerlink-title'>
+//   {title}
+// </Link>
