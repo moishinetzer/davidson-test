@@ -6,7 +6,7 @@ export default function Contact() {
 <link rel="stylesheet" href="https://use.typekit.net/rwh2pbj.css"/>
 
       <h1 className="home">Contact meee!</h1>
-      <p>Welcome to my favourite contacts</p>
+      <p>I live somewhere, 020 8988 8998 </p>
       
       <ul className="sidebar">
       <li><Link to={"/"}>home</Link></li>

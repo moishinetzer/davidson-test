@@ -6,7 +6,7 @@ export default function Portfolio() {
 <link rel="stylesheet" href="https://use.typekit.net/rwh2pbj.css"/>
 
       <h1 className="home">Portfolio</h1>
-      <p>Welcome to my fabulous box</p>
+      <p>This is where I show everyone how amazing I am</p>
      
       <ul className="sidebar">
       <li><Link to={"/"}>home</Link></li>

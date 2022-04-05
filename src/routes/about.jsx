@@ -7,7 +7,7 @@ export default function About() {
     
       <h1 className="about">About Me</h1>
       <p id="textabout">
-        lorem ipsum dolor sit amet consectetur adipisicing elit
+        I am a great designer
       </p>
     
       <ul className="sidebar">
