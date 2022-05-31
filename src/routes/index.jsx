@@ -14,6 +14,13 @@ export default function Index() {
         <a href="portfolio">Portfolio</a>
       </div> 
 
+    <div className="topnav">
+        <a href="/">Home</a>
+        <a href="about">About</a>
+        <a href="contact">Contact</a>
+        <a href="portfolio">Portfolio</a>
+      </div> 
+
       <h1 className="home">Home Page</h1>
       <p className="subtitle">Welcome to my fabulous box</p>
 
