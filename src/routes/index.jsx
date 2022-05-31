@@ -3,9 +3,10 @@ import { Link } from "react-router-dom";
 export default function Index() {
   return (
     <>
-    
-    <link rel="stylesheet" href="https://use.typekit.net/rwh2pbj.css"/>
 
+    <link rel="stylesheet" href="https://use.typekit.net/rwh2pbj.css"/>
+  
+      
     <div className="topnav">
         <a href="/">Home</a>
         <a href="about">About</a>

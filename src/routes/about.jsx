@@ -4,8 +4,15 @@ export default function About() {
   return (
     <>
     <link rel="stylesheet" href="https://use.typekit.net/rwh2pbj.css"/>
+
+    <div className="topnav">
+        <a href="/">Home</a>
+        <a href="about">About</a>
+        <a href="contact">Contact</a>
+        <a href="portfolio">Portfolio</a>
+      </div> 
     
-      <h1 className="about">About Me</h1>
+      <h1 className="home">About Me</h1>
       <p id="textabout">
         I am a great designer
       </p>
