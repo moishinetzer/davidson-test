@@ -1,9 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
 h1 {
-<<<<<<< HEAD
   background-color: rgba(238, 238, 238, 0.399);
-=======
-  background-color: rgb(238, 238, 238);
->>>>>>> bc99ca786015245e9a0401ac9ad419b1dc22834b
   text-align: center;
   font-family: confiteria-script, sans-serif;
   font-weight: 400;
@@ -92,11 +93,7 @@ color: green;
 
 .topnav {
   overflow: hidden;
-<<<<<<< HEAD
   background-color: rgba(51, 51, 51, 0.1);
-=======
-  background-color: #333;
->>>>>>> bc99ca786015245e9a0401ac9ad419b1dc22834b
   
 }
 
@@ -115,11 +112,7 @@ ul.sidebar {
 }
 ul.sidebar a {
     display: block;
-<<<<<<< HEAD
     color: rgb(0, 0, 0);
-=======
-    color: black;
->>>>>>> bc99ca786015245e9a0401ac9ad419b1dc22834b
     padding: 20px;
     text-decoration: none;
     
@@ -148,11 +141,7 @@ li a {
 /* The navbar container */
 .topnav {
   overflow: hidden;
-<<<<<<< HEAD
   background-color: rgba(0, 0, 0, 0);
-=======
-  background-color: rgb(0, 0, 0);
->>>>>>> bc99ca786015245e9a0401ac9ad419b1dc22834b
   margin-top: 0px;
 }
 
@@ -172,3 +161,4 @@ li a {
   background-color: #ddd;
   color: black;
 }
+
